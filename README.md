@@ -6,10 +6,8 @@ Dokumentacja projektu wraz z przedstawieniem jego funkcjonalności została umie
 **Jedyne wymaganie do uruchomienia strony to zainstalowany [XAMPP](https://www.apachefriends.org/).**
 
 1. Uieścić zawartość katalogu **htdocs** w (domyślne lokalizajce):
-Linux (XAMPP/LAMPP zainstalowany ręcznie):
-`/opt/lampp/htdocs`
-Windows:
-`C:\xampp\htdocs`
+* Linux (XAMPP/LAMPP zainstalowany ręcznie): `/opt/lampp/htdocs`
+* Windows: `C:\xampp\htdocs`
 
 2. Uruchomić serwisy **Apache** i **MySql**
 
