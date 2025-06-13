@@ -1,11 +1,11 @@
 # Projet zaliczeniowy PSI - Wypożyczalnia mutlimediów
-Dokumentacja projektu wraz z przedstawieniem jego funkcjonalności została umieszczona na e-nauce.
+**Dokumentacja projektu wraz z przedstawieniem jego funkcjonalności została umieszczona na e-nauce.**
 
 ## Uruchamianie aplikacji
 
 **Jedyne wymaganie do uruchomienia strony to zainstalowany [XAMPP](https://www.apachefriends.org/).**
 
-1. Uieścić zawartość katalogu **htdocs** w (domyślne lokalizajce):
+1. Umieścić zawartość katalogu **htdocs** w:
 * Linux (XAMPP/LAMPP zainstalowany ręcznie): `/opt/lampp/htdocs`
 * Windows: `C:\xampp\htdocs`
 
